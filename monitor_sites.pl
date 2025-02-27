@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 
 # Script para monitorar sites
-# Autor: Elton Santos
-# Data: 2025-23-02
+# Author: Elton Santos
+# Date: 2025-23-02
 
 use strict;
 use warnings;
